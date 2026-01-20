@@ -19,6 +19,9 @@ This project demonstrates how a chatbot works using basic programming concepts s
 - Python 3
 
 ---
+▶️ How to Run
+Clone the repository:
+git clone https://github.com/piyushrajbittu/basic_chatbot_CodeAlpha.git
 
 ## 📂 Project Structure
 ##Author
